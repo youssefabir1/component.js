@@ -20,7 +20,7 @@ function App() {
       </Card.Body>
     </Card>
 
-    <div style={{ textAlign : 'center', fontFamily: 'times new roman', fontSize: '4em', color: '#c70404' }}>
+    <div style={{ textAlign : 'center', fontFamily: 'times new roman', fontSize: '2em', color: '#c70404' }}>
     <p>
       <strong>Hello, there!</strong>
     </p>
